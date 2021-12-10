@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonSCFu
 - 👀 I’m interested in reading books and learning new things
-- 🌱 I’m currently working as Machine Learning Senior Manager in Standard Chartered Bank
+- 🌱 I’m currently working as an Machine Learning Senior Manager in Standard Chartered Bank
 
 - 📫 How to reach me sfu012@sina.com
 
