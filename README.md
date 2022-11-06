@@ -3,9 +3,6 @@
 -  I’m currently working as a Machine Learning Senior Manager in Standard Chartered Bank
 -  My expertise is Machine Learning, Deep Learning, ML Ops, Computer Vision ect.
 
--  How to reach me sfu012@sina.com
-
-
 # Artificial Intelligence and Machine Learning applications in Banking
 
 This repo mainly consists of actual practical use cases, applications of AI/ML in the banking industry. Some of them are actual projects I undertook and some are sparked by industry collaboration sharing. 
