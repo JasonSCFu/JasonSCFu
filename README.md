@@ -13,7 +13,7 @@ This repo contains AI/ML applications in the following areas:
 
 ### Data science toolkit:
  - [General python codes for data manipulation](https://github.com/JasonSCFu/Python-basics/blob/main/Code%20toolkits%20for%20data%20science.ipynb)
-
+ - [Pandas for data science](https://github.com/JasonSCFu/Python-basics/blob/main/pandas_data_manipulation.ipynb)
 
 ### ML techniques, pipeline, data processing: 
  - [Automated feature engineering](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Automated_Feature_Engineering.ipynb)
