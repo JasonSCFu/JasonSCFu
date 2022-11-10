@@ -1,4 +1,4 @@
--  Hi, I’m @JasonSCFu
+-  Hello, I’m Jason Fu
 -  I’m interested in reading books and learning new technologies
 -  I’m currently working as a Machine Learning Senior Manager in Standard Chartered Bank
 -  My expertise is Machine Learning, Deep Learning, ML Ops, Computer Vision ect.
