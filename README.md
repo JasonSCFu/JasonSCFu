@@ -1,13 +1,13 @@
 -  Hello, I’m Jason Fu
 -  I’m interested in reading books and learning new technologies
 -  I’m currently working as a Machine Learning Senior Manager in Standard Chartered Bank
--  My expertise is Machine Learning, Deep Learning, ML Ops, Computer Vision ect.
+-  My expertise is Machine Learning, Deep Learning, ML Ops, Computer Vision etc..
 
 # Artificial Intelligence and Machine Learning applications in Banking
 
 This repo mainly consists of actual practical use cases, applications of AI/ML in the banking industry. Some of them are actual projects I undertook and some are sparked by industry collaboration sharing. 
 
-I have worked in various roles in the banking industry, including personalized marketing strategy, risk management, fraud detection, robotic process automation (OCR). Over the years, I have seen how banks are trying to move from traditional statistical modelling to AI/ML modelling. With the acceleration of cloud migration and the speed of data accumulation, the trend of using advanced AI/ML will continue and will be the key factors to differentiate with competitors. 
+I have worked in various areas in the banking industry, including personalized marketing strategy, risk management, fraud detection, robotic process automation (OCR). Over the years, I have seen how banks are trying to move from traditional statistical modelling to AI/ML modelling. With the acceleration of cloud migration and the speed of data accumulation, the trend of using advanced AI/ML will continue and will be the key factors to differentiate with competitors. 
 
 This repo contains AI/ML applications in the following areas:
 
