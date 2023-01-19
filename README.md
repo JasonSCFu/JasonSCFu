@@ -36,7 +36,7 @@ This repo contains AI/ML applications in the following areas:
  - [Company bankruptcy prediction](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/company-bankruptcy-prediction.ipynb)
  
 ### Marketing, targeting, conversion prediction:
- - [Marketing campaign effective targeting](https://github.com/JasonSCFu/Bank-Marketing-Campaign-Management-)
+ - [Marketing Campaign Effective Targeting](https://github.com/JasonSCFu/Bank-Marketing-Campaign-Management-)
  - [End to End AutoML for insurance cross selling](https://github.com/JasonSCFu/AutoML-insurance-cross-selling)
  - [Application-of-Customer-Segmentation](https://github.com/JasonSCFu/Application-of-Customer-Segmentation-)
 ### Customer services:
