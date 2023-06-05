@@ -3,7 +3,7 @@
 -  I’m currently working as a Machine Learning Senior Manager in Standard Chartered Bank
 -  My expertise is Machine Learning, Deep Learning, ML Ops, Computer Vision etc..
 
-# Artificial Intelligence and Machine Learning applications in Banking
+# Artificial Intelligence and Machine Learning applications in Financial sector
 
 This repository primarily comprises real-world use cases and applications of AI/ML in the banking industry. It includes both projects I have personally undertaken and those inspired by collaborative efforts within the industry.
 
