@@ -56,7 +56,7 @@ The repository covers AI/ML applications in the following areas:
  - [ML application deployment using OpenShift container](https://github.com/JasonSCFu/Deploy-ML-Application-using-OpenShift)
  - [Log setup for production deployment](https://github.com/JasonSCFu/Logging/tree/main)
  - [ML Ops CICD](https://github.com/JasonSCFu/MLOPs-Foundations-CICD)
- - [File structures for deployment ready scripts](https://github.com/JasonSCFu/Model-pipeline-framework)
+ - [File structures for deployment ready scripts](https://github.com/JasonSCFu/Structure-and-framework-for-production-deployment)
  
 
 The implementation of AI/ML in the banking industry encounters numerous obstacles, such as challenges related to integrating with legacy systems, ensuring compliance with strict regulations, investing in infrastructure setup, addressing data governance and security concerns, and more. This repository is an ongoing project, and I welcome any feedback or comments to further enhance its content. Feel free to contact me at sfu012@sina.com.
