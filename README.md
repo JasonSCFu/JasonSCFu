@@ -23,7 +23,7 @@ The repository covers AI/ML applications in the following areas:
  - [Missing value imputation using DataWig](https://github.com/JasonSCFu/AIML-applications-in-Banking/tree/main/ML%20techniques/Missing%20Data%20Imputation/DataWig-Missing-Data-Imputation)
  - [Tactics for imbalanced data](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/ML%20techniques/Techniques_for_imbalanced_classification.ipynb)
  - [Extract model insight using permutation importance](https://github.com/JasonSCFu/Extract-insights-from-model-output-using-permutation-importance)
- - [Model pipeline framework](https://github.com/JasonSCFu/Model-pipeline-framework)
+ 
 
 ### OCR techniques to digitalize banking documents:
  -   [Checkbox detection on bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Check_box_detection_on_bank_documents.ipynb)
@@ -56,6 +56,7 @@ The repository covers AI/ML applications in the following areas:
  - [ML application deployment using OpenShift container](https://github.com/JasonSCFu/Deploy-ML-Application-using-OpenShift)
  - [Log setup for production deployment](https://github.com/JasonSCFu/Logging/tree/main)
  - [ML Ops CICD](https://github.com/JasonSCFu/MLOPs-Foundations-CICD)
+ - [File structures for deployment ready scripts](https://github.com/JasonSCFu/Model-pipeline-framework)
  
 
 The implementation of AI/ML in the banking industry encounters numerous obstacles, such as challenges related to integrating with legacy systems, ensuring compliance with strict regulations, investing in infrastructure setup, addressing data governance and security concerns, and more. This repository is an ongoing project, and I welcome any feedback or comments to further enhance its content. Feel free to contact me at sfu012@sina.com.
