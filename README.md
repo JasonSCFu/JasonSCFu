@@ -54,7 +54,7 @@ The repository covers AI/ML applications in the following areas:
  - [Flask API web services for ML model deployment](https://github.com/JasonSCFu/Flask-API-web-services-for-model-deployment)
  - [ML System Production in Google Cloud]( https://github.com/JasonSCFu/Google-Cloud-Production-Machine-Learning-System-Course)
  - [ML application deployment using OpenShift container](https://github.com/JasonSCFu/Deploy-ML-Application-using-OpenShift)
- - [Log setup for production deployment](https://github.com/JasonSCFu/Logging/tree/main)
+ - [Log and Exception setup for production deployment](https://github.com/JasonSCFu/Logging/tree/main)
  - [ML Ops CICD](https://github.com/JasonSCFu/MLOPs-Foundations-CICD)
  - [File structures for deployment ready scripts](https://github.com/JasonSCFu/Structure-and-framework-for-production-deployment)
  
